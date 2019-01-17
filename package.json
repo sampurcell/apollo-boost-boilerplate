@@ -1,0 +1,28 @@
+{
+  "name": "apollo-boost-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate NodeJS app using apollo-boost to provide a graphql  ApolloClient playground ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampurcell/apollo-boost-boilerplate.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo-boost",
+    "node"
+  ],
+  "author": "Sam Purcell <samuel.f.purcell@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampurcell/apollo-boost-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sampurcell/apollo-boost-boilerplate#readme",
+  "dependencies": {
+    "apollo-boost": "^0.1.23",
+    "graphql": "^14.1.1"
+  }
+}
